@@ -10,3 +10,6 @@
 ``` javascript
 let myName  = "Chinenye";
 ```
+- [ ] Write UpliftHub content
+- [X] Learn DevOps
+- [ ] Prep for meeting
